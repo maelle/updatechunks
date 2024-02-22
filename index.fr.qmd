@@ -2,17 +2,23 @@
 
 Ceci est un livre Quarto.
 
-Pour en apprendre plus sur Quarto, visitez <https://quarto.org/docs/books>.
+Pour en apprendre plus sur Quarto, visitez [https://quarto.org/docs/books](https://quarto.org/docs/books).
 
 ```{r}
-1 + 1
+1 + 2
 ```
 
-Quarto est très utile !
+Le format in-quarto est très soigné !
 
 ```{r}
 plot(1:10)
-1/2
+1/3
 ```
 
-Et assez nouveau.
+Et c'est assez récent.
+
+```{r}
+log(10)
+```
+
+

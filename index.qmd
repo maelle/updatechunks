@@ -5,14 +5,18 @@ This is a Quarto book.
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
 ```{r}
-1 + 1
+1 + 2
 ```
 
-Quarto is very useful!
+Quarto is very neat!
 
 ```{r}
 plot(1:10)
-1/2
+1/3
 ```
 
-And quite new.
+And quite recent.
+
+```{r}
+log(10)
+```
