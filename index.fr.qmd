@@ -1,0 +1,18 @@
+# Préface {.unnumbered}
+
+Ceci est un livre Quarto.
+
+Pour en apprendre plus sur Quarto, visitez <https://quarto.org/docs/books>.
+
+```{r}
+1 + 1
+```
+
+Quarto est très utile !
+
+```{r}
+plot(1:10)
+1/2
+```
+
+Et assez nouveau.
